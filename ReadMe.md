@@ -1,4 +1,4 @@
-## Project: Books I have
+## Project: Books I have read
 
 This is a minimal website, cloned from [Karl Broman](https://kbroman.org/simple_site), to publicly record the books I've read throughout the year. 
 
