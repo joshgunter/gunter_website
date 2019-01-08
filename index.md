@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Josh's Website
+title: Lists
 description: A personal website for Josh Gunter.
 ---
 
