@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading List
+title: Lists of stuff...
 description: Some lists of things I find interesting. 
 ---
 
