@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lists
+title: Things I Like To Read 
 description: A personal website for Josh Gunter.
 ---
 
-- [Nonfiction](pages/nonfiction.html)
-- [Fiction](pages/fiction.html)
-- [Blogs](pages/blogs.html)
-- [Movies](pages/movies.html)
-- [Music](pages/music.html)
+- Nonfiction
+  - [Fiber: The Coming Tech Revolution―and Why America Might Miss It](pages/fiber.html)
+- Fiction
+- Blogs
+
