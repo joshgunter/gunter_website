@@ -8,8 +8,10 @@ description: Nonfiction books I have read
 
 ##### By Susan Crawford
 
-Summary: 
+**Rating: 7/10**
 
-Notes: 
+**Summary:** 
+
+**Quotes:** 
 
 ---
