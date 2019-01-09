@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Reading Recs
-description: A personal website for Josh Gunter.
+title: Reading List
+description: Some lists of things I find interesting. 
 ---
 
 #### Nonfiction
-- [Fiber: The Coming Tech Revolution―and Why America Might Miss It](pages/fiber.html) by Susan Crawford
+- [Fiber: The Coming Tech Revolution―and Why America Might Miss It](pages/fiber.html) By Susan Crawford
 
 #### Blogs
 - [Dan Wang](https://danwang.co/) 
