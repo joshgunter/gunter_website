@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Fiber: The Coming Tech Revolution―and Why America Might Miss It 
+title: 
 description: Review of Fiber
 ---
+
+### Fiber: The Coming Tech Revolution―and Why America Might Miss It 
 
 ##### By Susan Crawford
 
