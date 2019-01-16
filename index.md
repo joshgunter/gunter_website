@@ -23,3 +23,4 @@ description: Some lists of things I find interesting.
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Stratechery](https://stratechery.com/)
 - [The Story's Story](https://jakeseliger.com/) 
+- [the scottbot irregular](https://scottbot.net/)
