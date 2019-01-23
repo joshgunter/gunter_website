@@ -14,7 +14,8 @@ description: Some lists of things I find interesting.
 - [The Big Switch: Rewiring the World](pages/big-switch.html) By Nicholas Carr
 - [The Information: A History, A Theory A Flood](pages/the-information.html) By James Gleick
 
-#### Blogs
+#### Blogs and Websites
+- [Ars Technica](https://arstechnica.com/)
 - [Dan Wang](https://danwang.co/) 
 - [Platformonomics](http://www.platformonomics.com/)
 - [High Scalability](http://highscalability.com/)
