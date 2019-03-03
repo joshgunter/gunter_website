@@ -7,6 +7,8 @@ description: Some lists of things I find interesting.
 #### Sci-Fi
 - [The Three-Body Problem (Trilogy)](pages/three-body.html) By Cixin Liu
 - [The Diamond Age: Or, a Young Lady's Illustrated Primer](pages/diamond-age.html) By Neal Stephenson
+- [Foundation](pages/foundation.html) By Isaac Asimov
+- [The Martian Chronicles](pages/martain-chronicles.html) By Ray Bradbury
 
 #### Nonfiction
 - [Fiber: The Coming Tech Revolution―and Why America Might Miss It](pages/fiber.html) By Susan Crawford
