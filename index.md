@@ -28,7 +28,7 @@ description: Some lists of things I find interesting.
 - [The Story's Story](https://jakeseliger.com/) 
 - [the scottbot irregular](https://scottbot.net/)
 - [Coding Horror](https://blog.codinghorror.com/)
-- [Kalzumeus Software](https://www.kalzumeus.com/)
+- [Kalzumeus Software](https://www.kalzumeus.com/) 
 _ [Arms Control Wonk](https://www.armscontrolwonk.com)
 
 #### Websites & Misc
