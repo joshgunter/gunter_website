@@ -4,7 +4,7 @@ title: News Sites, Blogs and Other Links
 description: Some lists of things I find interesting. 
 ---
 
-##  Tech Blogs & News 
+###  Tech Blogs & News 
 - [Stratechery](https://stratechery.com/)
 - [Joel On Software](https://www.joelonsoftware.com/)
 - [POTS and PANS](https://potsandpansbyccg.com/) 
@@ -14,7 +14,7 @@ description: Some lists of things I find interesting.
 - [Ars Technica](https://arstechnica.com/)
 - [Dan Wang](https://danwang.co/) 
 
-## Econ Blogs 
+### Econ Blogs 
 - [Marginal Revolution](https://marginalrevolution.com/)
 - [Platformonomics](http://www.platformonomics.com/)
 
@@ -25,7 +25,7 @@ description: Some lists of things I find interesting.
 - [North Korea Tech](https://www.northkoreatech.org/)
 - [Korean Central News Agency (DPRK Outlet)](https://www.northkoreatech.org/)
 
-#### Miscellaneous
+### Miscellaneous
 - [Network News Music](https://www.networknewsmusic.com/)
 - [The Story's Story](https://jakeseliger.com/) 
 - [the scottbot irregular](https://scottbot.net/)
