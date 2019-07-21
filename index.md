@@ -1,35 +1,34 @@
 ---
 layout: page
-title: List of favorites
+title: News Sites, Blogs and Other Links 
 description: Some lists of things I find interesting. 
 ---
 
-#### Sci-Fi
-- [The Three-Body Problem (Trilogy)](pages/three-body.html) By Cixin Liu
-- [The Diamond Age: Or, a Young Lady's Illustrated Primer](pages/diamond-age.html) By Neal Stephenson
-- [Foundation](pages/foundation.html) By Isaac Asimov
-- [The Martian Chronicles](pages/martain-chronicles.html) By Ray Bradbury
-
-#### Nonfiction
-- [Fiber: The Coming Tech Revolution―and Why America Might Miss It](pages/fiber.html) By Susan Crawford
-- [How The Internet Happened](pages/how-the-internet.html) By Brian McCullough
-- [The Big Switch: Rewiring the World](pages/big-switch.html) By Nicholas Carr
-- [The Information: A History, A Theory A Flood](pages/the-information.html) By James Gleick
-
-#### Blogs and News
-- [Ars Technica](https://arstechnica.com/)
-- [Dan Wang](https://danwang.co/) 
-- [Platformonomics](http://www.platformonomics.com/)
-- [High Scalability](http://highscalability.com/)
+##  Tech Blogs & News 
+- [Stratechery](https://stratechery.com/)
 - [Joel On Software](https://www.joelonsoftware.com/)
 - [POTS and PANS](https://potsandpansbyccg.com/) 
-- [Marginal Revolution](https://marginalrevolution.com/)
-- [Stratechery](https://stratechery.com/)
-- [The Story's Story](https://jakeseliger.com/) 
-- [the scottbot irregular](https://scottbot.net/)
 - [Coding Horror](https://blog.codinghorror.com/)
 - [Kalzumeus Software](https://www.kalzumeus.com/) 
-_ [Arms Control Wonk](https://www.armscontrolwonk.com)
- 
-#### Websites & Misc
+- [High Scalability](http://highscalability.com/)
+- [Ars Technica](https://arstechnica.com/)
+- [Dan Wang](https://danwang.co/) 
+
+## Econ Blogs 
+- [Marginal Revolution](https://marginalrevolution.com/)
+- [Platformonomics](http://www.platformonomics.com/)
+
+### North Korea News & Blogs 
+- [38 North](https://www.38north.org/)
+- [NK News](https://www.nknews.org/)
+- [North Korea Economy Watch](http://www.nkeconwatch.com/)
+- [North Korea Tech](https://www.northkoreatech.org/)
+- [Korean Central News Agency (DPRK Outlet)](https://www.northkoreatech.org/)
+
+#### Miscellaneous
 - [Network News Music](https://www.networknewsmusic.com/)
+- [The Story's Story](https://jakeseliger.com/) 
+- [the scottbot irregular](https://scottbot.net/)
+- [Arms Control Wonk](https://www.armscontrolwonk.com)
+
+
