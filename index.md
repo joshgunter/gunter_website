@@ -26,6 +26,7 @@ description: Some lists of things I find interesting.
 - [Korean Central News Agency (DPRK Outlet)](https://www.northkoreatech.org/)
 
 ### Miscellaneous
+- [View From The Boarding Area](https://viewfromthewing.boardingarea.com/)
 - [Network News Music](https://www.networknewsmusic.com/)
 - [The Story's Story](https://jakeseliger.com/) 
 - [the scottbot irregular](https://scottbot.net/)
